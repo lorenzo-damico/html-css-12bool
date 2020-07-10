@@ -26,7 +26,7 @@ p {
   height: 300px;
 }
 
-.row:last-child .col-6 {
+.row:last-child > .col-6 {
   padding: 5px;
 }
 

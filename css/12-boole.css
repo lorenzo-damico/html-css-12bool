@@ -7,7 +7,7 @@
   float:left;
 }
 
-.row::after {
+.container::after {
   content: "";
   display: table;
   clear: both;

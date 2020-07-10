@@ -24,3 +24,13 @@ p {
 .row {
   height: 300px;
 }
+
+.row:last-child .col-6 {
+  padding: 5px;
+}
+
+.nested {
+  background-color: lightcoral;
+  border: 1px solid white;
+  text-align: center;
+}

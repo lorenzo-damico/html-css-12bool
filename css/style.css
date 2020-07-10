@@ -19,6 +19,7 @@ p {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+  text-align: center;
 }
 
 .row {
@@ -32,5 +33,5 @@ p {
 .nested {
   background-color: lightcoral;
   border: 1px solid white;
-  text-align: center;
+
 }
